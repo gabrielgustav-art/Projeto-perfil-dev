@@ -11,5 +11,9 @@ Busco constantemente evoluir minhas habilidades técnicas, aprendendo na prátic
 Sou dedicado, proativo e tenho facilidade para aprender novas ferramentas e conceitos, sempre com foco em crescimento profissional na área de tecnologia.
 
 
+Sobre Mim: 
 
+Sou um desenvolvedor em formação, estudante de ADS, com base em programação, banco de dados e desenvolvimento web. Tenho conhecimentos em Python, HTML, CSS, lógica de programação, algoritmos, MER e modelo relacional. Gosto de transformar ideias em soluções práticas e estou sempre buscando aprimorar minhas competências técnicas por meio de estudos e projetos.
+
+Tenho perfil proativo, vontade de aprender e interesse em crescer na área de desenvolvimento, contribuindo com dedicação, organização e visão analítica para criar sistemas eficientes e funcionais
 
