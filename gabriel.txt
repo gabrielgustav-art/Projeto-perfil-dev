@@ -2,3 +2,14 @@ Projeto Perfil DEV"
 Nome: Gabriel Gustavo Alves 
 RGM: 11252101359
 Aluno: Análise e Desenvolvimento de Sistemas 
+
+Perfil profissional:
+Sou estudante de Análise e Desenvolvimento de Sistemas, com conhecimentos em lógica de programação, algoritmos, modelagem de banco de dados, MER e modelo relacional. Tenho familiaridade com desenvolvimento utilizando Python, HTML e CSS, além de interesse em criar soluções práticas, funcionais e bem estruturadas.
+
+Busco constantemente evoluir minhas habilidades técnicas, aprendendo na prática e desenvolvendo projetos que me permitam unir tecnologia, organização e criatividade. Tenho interesse em desenvolvimento de sistemas, aplicações web e soluções que gerem impacto real para usuários e negócios.
+
+Sou dedicado, proativo e tenho facilidade para aprender novas ferramentas e conceitos, sempre com foco em crescimento profissional na área de tecnologia.
+
+
+
+
